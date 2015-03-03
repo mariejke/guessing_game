@@ -1,0 +1,13 @@
+<script>
+
+var answer = ("kiss");
+var guess = prompt("Does he love me? I wanna know, how can I tell if he loves me so?");
+var message = ("Oh no that's not the way, and you're not listening to all I say");
+
+if answer == prompt(str.toLowerCase().indexOf("kiss") >= 0){
+	alert("That's where it is")
+} else {
+	alert(message)
+};
+
+</script>
